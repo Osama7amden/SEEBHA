@@ -22,7 +22,7 @@ button{
     font-weight: bold;
     position: absolute;
     z-index: 999;
-    top: 20%;
+    top: 15%;
     left: 50%;
     transform: translateX(-50%);
     white-space: nowrap;
